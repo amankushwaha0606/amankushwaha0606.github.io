@@ -51,13 +51,30 @@ Frontend-focused developer with 3+ years of experience crafting performant, scal
 - Built a Flutter/Firebase app guiding farmers on growing okra
 - Used weather APIs and prior input data to generate task recommendations
 
-## 🏆 Notable Projects
+## 🏆 Recent Projects
 
-### [📱 SAMPAN App](https://github.com/amankushwaha0606/sampan-app) (Flutter/Firebase)
-Health management app used by 500+ Aanganwadi workers, managing 25K+ child health records
+### 💬 React Chat App
+- **Live Demo:** [chat-app-amankushwaha0606s-projects.vercel.app](https://chat-app-amankushwaha0606s-projects.vercel.app/)
+- **GitHub:** [amankushwaha0606/chat-app](https://github.com/amankushwaha0606/chat-app)
+- **Tech:** React, Tailwind CSS, Vite, Context API  
+A responsive chat UI supporting individual chats, message timestamps, soft delete, loading states, and mobile-first design. Features instant message rendering and “sending...” feedback.
 
-### [📚 Assignment Management System](https://github.com/amankushwaha0606/assignment-app) (React/Node.js)
-Full-stack app for assignment handling with role-based views for teachers and students
+---
+
+### 🔗 Socket Chat App
+- **Live Demo:** [socket-chat-app-murex.vercel.app](https://socket-chat-app-murex.vercel.app/)
+- **GitHub:** [amankushwaha0606/socket_chat_app](https://github.com/amankushwaha0606/socket_chat_app)
+- **Tech:** React, Socket.IO, Node.js  
+Real-time group messaging with live user presence and seamless multi-user communication.
+
+---
+
+### 📝 Feedback Pin
+- **GitHub:** [amankushwaha0606/feedback-pin](https://github.com/amankushwaha0606/feedback-pin)
+- **Tech:** React, Express, Node.js  
+A web feedback collection platform where users can pin feedback on UI and share context-aware suggestions.
+
+- **Demo Video:** [Watch Here](https://github.com/user-attachments/assets/ff2daeea-dce8-4d92-94d0-8a4ae8520c0e)
 
 ## 📫 Let's Connect
 
